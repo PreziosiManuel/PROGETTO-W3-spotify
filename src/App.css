@@ -228,7 +228,6 @@ ul {
 }
 
 *::-webkit-scrollbar-thumb {
-  /* background-color: #1ed760; */
   background-color: #313131;
   border-radius: 20px;
 }
